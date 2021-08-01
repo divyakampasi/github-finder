@@ -11,9 +11,7 @@ It searches for all the Github users using the text inputted by the user in the 
 
 React, React Components, Netlify, Hooks, Context, State API's, 3rd party API's'
 
-The production version of this simple application has been deployed via Netlify. Click [here](https://competent-elion-d709ce.netlify.com/)
-
-Courtesy: bradtraversy
+The production version of this simple application has been deployed. Click [here](https://competent-elion-d709ce.netlify.com/)
 
 
 # Getting Started with Create React App
